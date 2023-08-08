@@ -9,7 +9,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textStyle="bold"
+       android:textStyle="italic"
+
         android:text="Login"
         android:textSize="30dp"
         android:backgroundTint="@color/black"></Button>
